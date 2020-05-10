@@ -9,7 +9,17 @@ Week 1:
     Vraag 1:
 
 Week 2:
+  AIMA - (informed) Heuristic search:
+    Vraag 1: 3.6.3 - Het 8 tiles spel probleem, kunnen er geen tegenstrijdigheden in bepaalde moves plaatsvinden als er voor elke combinatie
+		     van een subprobleem ((1,2,3,4),(2,3,4,5)...(5,6,7,8)) in de database zit?
 
+  AIMA - Beyond classical search:
+    Vraag 1: Waar in de paper AIMA - (informed) Heuristic search wordt gezegd dat greedy zijn incompleet is (zelfs in een finite state space),
+	     hoe kan het dan in deze paper zeggen dat greedy zijn vaak voordelen heeft, zelfs als in deze paper wordt gezegdt dat het een van de 7 deadly sins is?
+
+  When autonomous agents model other agents:
+    Vraag 1: "When an autonomous agent interacts with other agents, the judgments it makes(i.e.,the models it creates) about its associates dictate its behavior."
+	      Wat is de samenhang tussen 'beslissingen' en 'models it creates' en hoe worden die modellen gemaakt?
 Week 3:
 
 Week 4:
